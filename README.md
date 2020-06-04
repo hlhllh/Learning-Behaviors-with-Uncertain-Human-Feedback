@@ -1,10 +1,10 @@
 # Learning-Behaviors-with-Uncertain-Human-Feedback
 Code for paper "Learning Behaviors with Uncertain Human Feedback"
-# required packages
-Scipy
+# Required packages
+Scipy \<br>
 Numpy
 ## For lighting task
-remi https://github.com/dddomodossola/remi
+remi https://github.com/dddomodossola/remi \<br>
 Yeelight
 ## For rat caughting task
 cv2
