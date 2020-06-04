@@ -1,6 +1,5 @@
 # Learning-Behaviors-with-Uncertain-Human-Feedback
 Code for paper "Learning Behaviors with Uncertain Human Feedback"
-====
 # required packages
 Scipy
 Numpy
